@@ -1,5 +1,5 @@
 ﻿using GitBranchingGroup2ElectricBoogaloo;
 
-Sloth seymour = new Sloth();
+Sloth seymour = new Sloth("Seymour");
 
 seymour.MakeHappyNoise();
