@@ -6,6 +6,7 @@
 
         public int NumOfWhiskers { get; set; }
         public string Color { get; set; }
+        public int MovementSpeed { get; set; }
 
         public virtual void MakeHappyNoise()
         {
