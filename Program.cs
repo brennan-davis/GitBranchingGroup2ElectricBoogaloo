@@ -1,1 +1,5 @@
-﻿Console.WriteLine("Hi");
+﻿using GitBranchingGroup2ElectricBoogaloo;
+
+Sloth seymour = new Sloth();
+
+seymour.MakeHappyNoise();
